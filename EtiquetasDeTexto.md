@@ -1,9 +1,3 @@
-<style>
-    #Color{
-        color: blue;
-    }
-</style>
-
 <h1 id="Color">Etiquetas de texto</h1>
 A continuacion se presentarán las etiquetas de texto mas comunes en el lenguaje HTML.
 <br><br>
